@@ -1,0 +1,41 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model files
+saved_model/
+
+# Dataset
+dataset/
+
+# Results and outputs
+results/
+*.csv
+*.png
+
+# Temporary files and logs
+*.log
+*.tmp
+
+# Environment files
+.env
+*.venv
+*.virtualenv
+pip-log.txt
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor settings
+.vscode/
+.idea/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
